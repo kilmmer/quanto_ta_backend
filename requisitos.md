@@ -1,3 +1,10 @@
+<h1>Premissa</h1>
+O app vai receber os preços de combustíveis a partir dos usuários, eles irão selecionar o posto no mapa e informar o preço do litro do combustível que foi abastecido.
+Com base nos preços informados, terão um indicativo de confiabilidade, quanto mais pessoas informarem aquele mesmo valor, mais confiável será aquela informação.
+O usuário poderá consultar o menor preço mais próximo dele a partir da informação do gps.
+O usuário precisará fazer um login para utilizar o app.
+Outros usuários poderão reconfirmar que o último preço informado é válido ainda.
+
 **<h1>Tecnologias</h1>**
 1. **Node.js com TypeScript:**
    - Use o Node.js para a execução do servidor e adicione o TypeScript para trazer benefícios de tipagem estática.
